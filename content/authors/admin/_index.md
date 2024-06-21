@@ -47,7 +47,7 @@ education:
 - area: Ph.D. in Physics
   institution: Massachusetts Institute of Technology (MIT)
   date_start: 2020-09-01
-  date_end: prsent
+  date_end: present
    
 - area: B.S. in Physics
   institution: Pohang University of Science and Technology (POSTECH)
