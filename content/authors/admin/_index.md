@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:khoh@mit.edu'
     label: E-mail Me
-   - icon: brands/linkedin
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/kyoung-hun-oh-b673159a/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=mZ0O2S4AAAAJ&hl=en
