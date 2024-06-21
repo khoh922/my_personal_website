@@ -46,13 +46,11 @@ interests:
 education:
 - area: Ph.D. in Physics
   institution: Massachusetts Institute of Technology (MIT)
-  date_start: 2020-09-01
-  date_end: present
+  year: 09/2020-present
    
 - area: B.S. in Physics
   institution: Pohang University of Science and Technology (POSTECH)
-  date_start: 2013-03-01
-  date_end: 2017-02-01
+  year: 03/2013-02/2017
 #    summary: |
 #      GPA: 4.2/4.3
 
